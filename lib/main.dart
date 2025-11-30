@@ -39,6 +39,8 @@ class _WallpaperScreenState extends State<WallpaperScreen> {
     'https://images.unsplash.com/photo-1540206395-68808572332f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBob25lJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww',
     'https://images.unsplash.com/photo-1527515234283-d93c5f8486a0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmUlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D',
     'https://images.unsplash.com/photo-1504681869696-d977211a5f4c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBob25lJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww',
+    'https://tse4.mm.bing.net/th/id/OIP.9DKymb8P00v_dwBdUg6zpgHaNK?rs=1&pid=ImgDetMain&o=7&rm=3',
+    'https://i.pinimg.com/originals/bd/35/ca/bd35caa1d66da3a15ed952b4ac1010f7.jpg',
   ];
 
   Future<void> _setWallpaper(int location) async {
